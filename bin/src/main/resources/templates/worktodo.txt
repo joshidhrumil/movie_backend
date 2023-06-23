@@ -1,0 +1,7 @@
+Things Remaining in this task...
+
+1) Operations in Booking Controller
+2) Handel all the responses in proper format
+3) Implement conditions through RabbitMq
+4) Remove Invoice module
+5) R&D on how to Pass Header from browser and run Swagger
